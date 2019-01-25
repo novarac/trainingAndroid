@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">My Demo Application</string>
+    <string name="please_enter_your_tet_here">Please enter your name here</string>
+    <string name="text_go">GO!</string>
+    <string name="button_back"><![CDATA[< Back]]></string>
+    <string name="please_enter_a_text_for_return">"Please enter a text for return"</string>
 </resources>

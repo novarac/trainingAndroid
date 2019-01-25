@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Aplication Demo</string>
+    <string name="please_enter_your_tet_here">Por favor ingrese su nombre aqui</string>
+    <string name="text_go">IR!</string>
+    <string name="button_back"><![CDATA[< Volver]]></string>
+    <string name="please_enter_a_text_for_return">Por favor inserte un texto para retornar</string>
+</resources>
